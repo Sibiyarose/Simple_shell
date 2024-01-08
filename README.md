@@ -1,4 +1,4 @@
-#In this project I will be bbuilding my own simple shell
+# In this project I will be bbuilding my own simple shell
 
 ## What is a shell?
 A shell is a command line interface that allows users to interact with the operating system and run commands.
